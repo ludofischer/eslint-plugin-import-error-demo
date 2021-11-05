@@ -1,4 +1,4 @@
-import { optimize } from 'svgo';
+import { optimize } from './test.js';
 
 
 optimize('<svg></svg>');
